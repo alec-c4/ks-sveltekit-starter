@@ -1,0 +1,20 @@
+{
+	"recommendations": [
+		"aaron-bond.better-comments",
+		"ardenivanov.svelte-intellisense",
+		"bradlc.vscode-tailwindcss",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"heybourn.headwind",
+		"jock.svg",
+		"mgmcdermott.vscode-language-babel",
+		"mikestead.dotenv",
+		"oderwat.indent-rainbow",
+		"piotrpalarz.vscode-gitignore-generator",
+		"svelte.svelte-vscode",
+		"vincaslt.highlight-matching-tag",
+		"zainchen.json"
+	]
+}
